@@ -1,6 +1,6 @@
 {
   "name": "secret-board-2",
-  "description": "秘密の匿名掲示板",
+  "description": "２５ちゃんねる",
   "repository": "http://github.com/progedu/secret-board-2",
   "logo": "",
   "keywords": ["node"],
